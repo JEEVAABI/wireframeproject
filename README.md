@@ -13,6 +13,12 @@ Write your design steps here
 
 ## OUTPUT:
 include your output screenshots 
+### HOME PAGE
+![output](home.png)
+### ABOUT US
+![output](abt.png)
+### TRAINING PAGE
+![output](tra.png)
 
 
 ## Result:
